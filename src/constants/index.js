@@ -227,7 +227,7 @@ const projects = [
   {
     name: "To do list",
     description:
-      "A to-do list made using ReactJs in which you can add a task, edit a task, and delete a task",
+      "A to-do list application using ReactJS for efficient task management. Users can add, edit, and delete tasks with ease. The application leverages React hooks for state management, ensuring a responsive and intuitive user interface.",
     tags: [
       {
         name: "react",
@@ -241,7 +241,7 @@ const projects = [
   {
     name: "Dino vs Dragon Game",
     description:
-      "It is a game made using JavaScript where the dino (player) needs to jump to dodge the dragon (obstacle) to score points. ",
+      "An engaging game using JavaScript where the player controls a dino that must jump to dodge oncoming dragons to score points. The game features simple controls for jumping, collision detection to determine hits, and a scoring system that increases with successful dodges. The objective is to achieve the highest score by avoiding as many dragons as possible.",
     tags: [
 
       {
